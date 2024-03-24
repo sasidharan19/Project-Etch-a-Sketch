@@ -11,13 +11,9 @@
 }
 
 .column {
-    background-color: green;
+    background-color:darkgrey;
     padding: 1em 0;
     flex: 1;
-}
-
-.column:hover {
-    background-color: blue;
 }
 
 .userInput {
